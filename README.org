@@ -5,5 +5,5 @@ libev bindings for Common Lisp
 |---------+------------------------------------------|
 | source  | git:https://github.com/sbryant/cl-ev.git |
 | commit  | f6c7621                                  |
-| systems | cl-ev                                    |
+| systems | (ev)                                     |
 |---------+------------------------------------------|
